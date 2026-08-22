@@ -2,6 +2,7 @@
     "name": "pushinbr/pam-mobile-ui",
     "description": "Compatibility package for pushinbr/pam-native-ui.",
     "type": "metapackage",
+    "abandoned": "pushinbr/pam-native-ui",
     "license": "Apache-2.0",
     "require": {
         "pushinbr/pam-native-ui": "^0.5"
