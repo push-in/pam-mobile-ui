@@ -60,6 +60,11 @@ This explicit compatibility repository is intentional: old installs remain under
 <a id="pam-ecosystem"></a>
 ## <picture><img src=".github/assets/icons/plug.svg" width="22" height="22" alt=""></picture> Part of the PAM ecosystem
 
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/pam-wordmark-dark.svg">
+  <img src=".github/assets/pam-wordmark-light.svg" height="56" alt="PAM">
+</picture></p>
+
 PAM runs PHP natively on servers, desktops and phones. This repository only keeps an old package name resolvable.
 
 | [**PAM**](https://github.com/push-in/pam) | [**PAM Desktop**](https://github.com/push-in/pam-desktop) | [**PAM Native**](https://github.com/push-in/pam-native) | [**Ecosystem**](https://github.com/push-in/pam#ecosystem) |
